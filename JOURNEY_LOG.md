@@ -21,7 +21,7 @@
 - Misspelled `tax_amount` and got a NameError. Fixed it by reading the traceback.
 
 **Tomorrow:**
-- Day 2: if/elif/else, comparisons, and logical operators
+- Day 2: Build a Sales Report Generator using for loops, while loops, range(), break, and continue.
 
 **Git commit:** Day 1: Python variables, data types, and arithmetic operators, `if/elif/else` conditional logic
 
